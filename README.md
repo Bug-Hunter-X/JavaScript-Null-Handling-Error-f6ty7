@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript related to null value handling. The bug.js file contains the erroneous code. The bugSolution.js file provides a corrected version. The issue lies in the function's handling of null inputs, leading to unexpected null outputs. The solution addresses this by providing alternative handling mechanisms for null values.
